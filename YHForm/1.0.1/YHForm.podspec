@@ -33,7 +33,7 @@ TODO: Add long description of the pod here.
   
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'YHForm/Classes/YHForm/**/*.{h,m,mm}'
+  s.source_files = 'YHForm/**/*.{h,m,mm}'
   
   # s.resource_bundles = {
   #   'YHForm' => ['YHForm/Assets/*.png']
